@@ -90,35 +90,29 @@ Because of these limitations, this project focuses on descriptive behavioral ana
 
 ## Project Structure
 
-`cyclistic-bike-share-case-study/`
-│
+```text
+cyclistic-bike-share-case-study/
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
 │   └── summary/
-│
 ├── docs/
 │   ├── business_task.md
 │   ├── case_study_report.md
 │   ├── data_cleaning_log.md
 │   └── presentation_notes.md
-│
 ├── sql/
 │   ├── 02_data_checks.sql
 │   └── 03_analysis_queries.sql
-│
 ├── src/
 │   ├── data_cleaning.py
 │   ├── check_clean_csv.py
 │   ├── load_to_sqlite.py
 │   ├── export_tableau_summary.py
 │   └── export_tableau_summary_excel.py
-│
 ├── visuals/
 │   ├── charts/
 │   └── dashboard/
-│
-├── cyclistic.db
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -284,21 +278,10 @@ Not all casual riders are equally valuable. A more targeted conversion strategy 
 
 ## Tableau Dashboard
 
-The final dashboard compares annual members and casual riders across:
-- Total rides
-- Average ride length
-- Ride count by day of week
-- Average ride length by day
-- Ride count by hour
-- Ride count by month
+The final dashboard compares annual members and casual riders across ride volume, ride duration, weekday behavior, hourly behavior, and seasonality.
 
-The dashboard title is:
-
-**Cyclistic Case Study: How Members and Casual Riders Use Bikes Differently**
-
-Recommended output files:
-- dashboard screenshot in `visuals/dashboard/`
-- supporting chart exports in `visuals/charts/`
+**Dashboard title:**  
+Cyclistic Case Study: How Members and Casual Riders Use Bikes Differently
 
 ![Cyclistic Dashboard](visuals/dashboard/cyclistic_dashboard.png)
 
