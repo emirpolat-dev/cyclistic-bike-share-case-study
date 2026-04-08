@@ -382,6 +382,6 @@ This project demonstrates the ability to:
 ---
 
 ## Author
-Emir Polat
+Emir Polat;
 Architecture and design background transitioning into data analytics and data science through practical case studies, portfolio projects, and public learning.
 
