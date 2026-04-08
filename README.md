@@ -216,6 +216,12 @@ Casual usage grows strongly from spring into summer and peaks in the warmer part
 ### 7. Electric bikes dominate usage in both segments
 Both rider groups use electric bikes more than classic bikes, which suggests that convenience and ease matter across the board.
 
+### 8. Winter casual riders behave like members
+In winter months, the ride duration gap between casual and member riders narrows from 8.2 minutes (July) to just 1.4 minutes (January), suggesting these riders use the service for transportation rather than leisure.
+
+### 9. Casual riders take 4x more round trips  
+8.1% of casual rides start and end at the same station, compared to just 2.2% for members — confirming the leisure/tour pattern.
+
 ---
 
 ## Interpretation of Findings
@@ -274,6 +280,9 @@ A possible next-step analysis would isolate casual riders who remain active in l
 
 **Why this matters:**  
 Not all casual riders are equally valuable. A more targeted conversion strategy could outperform a broad one.
+
+### 5. Protect existing member loyalty
+Any promotional pricing offered to new members should be matched or exceeded for existing loyal members to avoid alienating the revenue backbone of the service.
 
 ---
 
