@@ -116,6 +116,7 @@ cyclistic-bike-share-case-study/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```text
 
 ---
 
