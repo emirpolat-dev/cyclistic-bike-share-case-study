@@ -300,6 +300,8 @@ Recommended output files:
 - dashboard screenshot in `visuals/dashboard/`
 - supporting chart exports in `visuals/charts/`
 
+![Cyclistic Dashboard](visuals/dashboard/cyclistic_dashboard.png)
+
 ### Dashboard Purpose
 The dashboard is designed to support quick executive understanding. Instead of showing all possible statistics, it focuses on the patterns most relevant to membership conversion:
 - who rides more
